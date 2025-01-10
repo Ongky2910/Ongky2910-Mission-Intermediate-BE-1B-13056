@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Build and temporary directories
+build/
+dist/
+tmp/
+
+# Other files that are usually not needed in Git
+*.env
+*.swp
+
+
